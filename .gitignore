@@ -44,6 +44,6 @@ app.*.map.json
 /android/app/release
 
 # Ignore Google services JSON file
-app/googleservices.json
+app/google-services.json
 
-app/library/shared/*.dart
+/lib/shared/*.dart
